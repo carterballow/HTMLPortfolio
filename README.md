@@ -1,5 +1,5 @@
-## First Iteration of Portfolio Webpage
-
+## ⚠️ This project is no longer actively maintained.
+A newer version of my portfolio is live at [carterballow.com](https://carterballow.com).
 
 ## About
 
