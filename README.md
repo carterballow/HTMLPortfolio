@@ -7,6 +7,7 @@ A single-page portfolio showcasing my education, skills, projects, and extracurr
 
 ## Live Site
 
+[carterballow.github.io](https://carterballow.github.io/HTMLPortfolio/)
 
 ## Tech Stack
 
